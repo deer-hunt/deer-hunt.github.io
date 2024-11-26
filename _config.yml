@@ -2,9 +2,8 @@ title: deer-hunt GitHub Page
 description: deer-hunt GitHub Page.
 url: https://deer-hunt.github.io/
 baseurl: ""
-theme: "minimal-mistakes-jekyll"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 logo: https://avatars.githubusercontent.com/u/188069631
-
-plugins:
-  - jekyll-feed
