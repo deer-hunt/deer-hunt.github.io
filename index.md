@@ -5,10 +5,11 @@ title: deer-hunt GitHub Page
 
 # Welcome to deer-hunt GitHub Page
 
-## Links
+## IpSurv
 
-- [IpSurv Github](https://github.com/deer-hunt/ipsurv)
-- [IpSurv's documentation site](https://deer-hunt.github.io/ipsurv/)
+- [Go to PyPI page](https://pypi.org/project/ipsurv/)
+- [Go to Github](https://github.com/deer-hunt/ipsurv)
+- [Documentation site](https://deer-hunt.github.io/ipsurv/)
 
 ## Contact
 
