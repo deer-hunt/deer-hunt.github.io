@@ -11,6 +11,13 @@ title: deer-hunt GitHub Page
 - [Go to Github](https://github.com/deer-hunt/ipsurv)
 - [Documentation site](https://deer-hunt.github.io/ipsurv/)
 
+## IpServer
+
+- [Go to PyPI page](https://pypi.org/project/ipserver/)
+- [Go to Github](https://github.com/deer-hunt/ipserver)
+- [Documentation site](https://deer-hunt.github.io/ipserver/)
+
+
 ## Contact
 
 [GitHub](https://github.com/deer-hunt)
