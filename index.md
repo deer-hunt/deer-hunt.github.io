@@ -17,6 +17,12 @@ title: deer-hunt GitHub Page
 - [Go to Github](https://github.com/deer-hunt/ipserver)
 - [Documentation site](https://deer-hunt.github.io/ipserver/)
 
+## EvArgs
+
+- [Go to PyPI page](https://pypi.org/project/evargs/)
+- [Go to Github](https://github.com/deer-hunt/evargs)
+- [Documentation site](https://deer-hunt.github.io/evargs//)
+
 
 ## Contact
 
